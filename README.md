@@ -1,1 +1,2 @@
 # Campus-Network-Architecture
+This project entails creating a network architecture for a LAN (Local Area Network) for a college, in which multiple computers from various departments are set up in such a way that they can interact and communicate with one another by exchanging data. Different networking devices are used to implement campus network design, including PT routers, PT switches, DNS servers, FTP servers, WEB servers, computers, laptops, and printers, as well as Serial DTE and Copper Straight-Through connections. I have implemented this using Cisco Packet Tracer.
